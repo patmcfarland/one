@@ -1,7 +1,7 @@
 ```mermaid
 flowchart TB
 A[Blockchain Data<br>Customer<br>-Person-] -->B{Blockchain Data<br>System<br>-Software System-}
-B -- Gets account information<br>from and makes payments using --> C{Quit or enter<br>temperature number} 
+B -- Gets account<br>information from<br>and makes payments using --> C{Quit or enter<br>temperature number} 
 C -- Temperature Number --> D[Temperature successfully<br>converted!] 
 D -- Start Again -->B
 B -- Quit --> E[Stop Program]
