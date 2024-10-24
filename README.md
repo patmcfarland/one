@@ -1,6 +1,6 @@
 ```mermaid
 flowchart LR
-A[Personal Banking Customer] -->B{Quit or  enter<br>temperature scale}
+A[Blockchain Data Customer] -->B{Quit or  enter<br>temperature scale}
 B -- Temperature Scale --> C{Quit or enter<br>temperature number} 
 C -- Temperature Number --> D[Temperature successfully<br>converted!] 
 D -- Start Again -->B
