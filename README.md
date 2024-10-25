@@ -9,5 +9,5 @@ C -- files are formatted --> D
 D[Break files into pieces<br>-Translate Process-]
 C -- files are not formatted --> E
 E[Error Log<br>-File-]
-F[Database]
+F[Postgres Database<br>-Database System-]
 ```
