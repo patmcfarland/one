@@ -6,5 +6,5 @@ B{TenderMint Folder<br>-Directory-}
 B -- = 100 JSON files --> C[Update Folder<br>-Directory-]
 B -- < 100 JSON files --> A
 C -- files are formatted --> D
-D[Postgres Database<br>-Load Process-]
+D[Break files into pieces<br>-Translate Process-]
 ```
