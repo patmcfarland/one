@@ -10,4 +10,5 @@ D[Break files into pieces<br>-Translate Process-]
 C -- files are not formatted --> E
 E[Error Log<br>-File-]
 F[Postgres Database<br>-Load Process-]
+D -- files contain transactions --> F
 ```
