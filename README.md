@@ -7,4 +7,6 @@ B -- = 100 JSON files --> C[Update Folder<br>-Directory-]
 B -- < 100 JSON files --> A
 C -- files are formatted --> D
 D[Break files into pieces<br>-Translate Process-]
+C -- files are not formatted --> E
+E[Error Log<br>-File-]
 ```
