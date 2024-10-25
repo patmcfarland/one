@@ -1,6 +1,6 @@
 ```mermaid
 flowchart TD
-A[Gets JSON files<br>from blockchain<br>-Extract Process-]
+A[Get JSON files<br>from blockchain<br>-Extract Process-]
 A --> B
 B[TenderMint Folder<br>-Directory-]
 B -- = 100 JSON files --> C[Update Folder<br>-Directory-]
