@@ -1,6 +1,6 @@
 ```mermaid
 flowchart TD
-A[Extract<br>-Process-] -->B{tendermint<br>-File System-}
+A[Extract<br>-Process-] -->B{tendermint<br>-Directory-}
 B -- Gets JSON file<br>from JSON file provider --> C{Mainframe Blockchain<br>System<br>-Software System-} 
 C -- Temperature Number --> D[Temperature successfully<br>converted!] 
 D -- Start Again -->B
