@@ -12,5 +12,5 @@ E[Error Log<br>-File-]
 F[Postgres Database<br>-Load Process-]
 D -- files contain transactions --> F
 D -- files do not contain transactions --> G
-G[empty log<br>-File-]
+G[Empty Log<br>-File-]
 ```
