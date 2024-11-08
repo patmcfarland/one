@@ -3,8 +3,7 @@ flowchart TD
 A[Get JSON files<br>from blockchain<br>-Extract Process-]
 A --> B
 B[TenderMint Folder<br>-Directory-]
-B -- = 100 JSON files --> C[Move to Archive Folder<br>-Directory-]
-B -- < 100 JSON files --> A
+B --> C[Move to Archive Folder<br>-Directory-]
 C -- files are formatted --> D
 D[Break files into pieces<br>-Translate Process-]
 C -- files are not formatted --> E
