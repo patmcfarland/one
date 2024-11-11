@@ -12,4 +12,6 @@ F[Postgres Database<br>-Load Process-]
 D -- files contain transactions --> F
 D -- files do not contain transactions --> G
 G[Empty Log<br>-File-]
+H[next step]
+G -- what is next step --> H
 ```
