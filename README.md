@@ -12,7 +12,7 @@ F[Update Postgres Database<br>-Update block process table-]
 D -- block contains transactions --> F
 D -- block does not contain transactions --> G
 G[Update block process table<br>-Database-]
-H[next step]
+H[end]
 F -- end --> H
 G -- end --> H
 ```
